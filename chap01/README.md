@@ -1,8 +1,5 @@
 # Chapter 1 - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가
 
-completed: Yes
-presentation: 2022년 8월 17일
-발표: No
 
 ### 1.1 역사의 흐름은 무엇인가?
 
